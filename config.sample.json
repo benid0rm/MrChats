@@ -1,6 +1,6 @@
 {
   "token": "I AM A TOKEN",
-  "intents": [
+  "intentsArray": [
     "GUILDS",
     "GUILD_MEMBERS",
     "GUILD_MESSAGES",

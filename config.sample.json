@@ -11,5 +11,6 @@
     "GUILD_EMOJIS_AND_STICKERS",
     "GUILD_PRESENCES",
     "GUILD_VOICE_STATES"
-  ]
+  ],
+  "prefix": ">"
 }
